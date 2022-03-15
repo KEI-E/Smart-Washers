@@ -1,0 +1,9 @@
+A:\GitHubDesktop\Repositories\Smart-Washers\EngbinoFuzzyLogic\bin\Debug\AliacFuzzyLogic.exe
+A:\GitHubDesktop\Repositories\Smart-Washers\EngbinoFuzzyLogic\bin\Debug\AliacFuzzyLogic.pdb
+A:\GitHubDesktop\Repositories\Smart-Washers\EngbinoFuzzyLogic\obj\Debug\EngbinoFuzzyLogic.csproj.AssemblyReference.cache
+A:\GitHubDesktop\Repositories\Smart-Washers\EngbinoFuzzyLogic\obj\Debug\AliacFuzzyLogic.Form1.resources
+A:\GitHubDesktop\Repositories\Smart-Washers\EngbinoFuzzyLogic\obj\Debug\AliacFuzzyLogic.Properties.Resources.resources
+A:\GitHubDesktop\Repositories\Smart-Washers\EngbinoFuzzyLogic\obj\Debug\EngbinoFuzzyLogic.csproj.GenerateResource.cache
+A:\GitHubDesktop\Repositories\Smart-Washers\EngbinoFuzzyLogic\obj\Debug\EngbinoFuzzyLogic.csproj.CoreCompileInputs.cache
+A:\GitHubDesktop\Repositories\Smart-Washers\EngbinoFuzzyLogic\obj\Debug\AliacFuzzyLogic.exe
+A:\GitHubDesktop\Repositories\Smart-Washers\EngbinoFuzzyLogic\obj\Debug\AliacFuzzyLogic.pdb
